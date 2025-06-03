@@ -19,7 +19,7 @@
 - 👤 **Nome:** JVscarrion  
 - 💼 **Atuação:** Desenvolvedor de software  
 - 🌱 **Aprendendo:** Atualmente focado em React Native
-- ⚡ **Curiosidade:** 
+
 
 ---
 
