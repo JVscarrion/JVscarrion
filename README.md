@@ -1,16 +1,14 @@
+<!-- Banner animado opcional: pode ser removido para minimalismo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:aee9f9&height=150&section=header&text=Olá%20👋%20Eu%20sou%20JVscarrion&fontSize=32&fontColor=ffffff" alt="capa"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=333&height=190&section=header&text=Olá,%20eu%20sou%20o%20JVscarrion%20👋&fontColor=fff&fontSize=35&animation=twinkling" alt="JVscarrion banner"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/JVscarrion">
-    <img src="https://img.shields.io/github/followers/JVscarrion?label=Seguidores&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/JVscarrion?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -18,43 +16,47 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em **projetos de desenvolvimento web**
-- 🌱 Aprendendo **JavaScript, React, e Node.js**
-- 💬 Pergunte-me sobre **desenvolvimento web, APIs ou automação**
-- ⚡ Fun fact: Adoro café e desafios de programação!
+- 👤 **Nome:** JVscarrion  
+- 💼 **Atuação:** Desenvolvedor de software  
+- 🌱 **Aprendendo:** Atualmente focado em React Native
+- ⚡ **Curiosidade:** 
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker"/>
-</p>
-
----
-
-## 📈 GitHub Stats
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JVscarrion&show_icons=true&theme=radical" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVscarrion&theme=radical" width="45%" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=https://skillicons.dev/icons?i=html,css,js,php,py,java,react,nodejs,mysql,cs,cpp" alt="Linguagens e Ferramentas"/>
 </p>
 
 ---
 
-## 🌎 Onde me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin) 
-- [E-mail](mailto:seuemail@email.com)
-
----
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aee9f9,100:6e40c9&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JVscarrion&show_icons=true&hide_border=true&title_color=333&icon_color=008080&text_color=555&bg_color=fff" width="47%" alt="JVscarrion GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVscarrion&hide_border=true&stroke=333&background=fff&ring=008080&fire=008080&currStreakNum=333" width="47%" alt="JVscarrion Streak Stats"/>
 </p>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://linkedin.com/in/jvscarrion" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-333?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/jvscarrion" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-333?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <!-- Adicione mais links se desejar -->
+</p>
+
+---
+
+<details>
+  <summary>💡 Extras minimalistas</summary>
+
+- 📝 Sempre aberto a colaborações e ideias!
+
+</details>
